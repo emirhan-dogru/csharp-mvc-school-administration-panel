@@ -1,0 +1,51 @@
+﻿
+@using MvcCrudProje.Models.Entities
+@model List<Worker>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-xs-12">
+        <div class="box">
+            <div class="box-header">
+                <h3 class="box-title">Diğer Çalışanlar</h3>
+                <a href="/Worker/Create" class="btn btn-primary btn-xs pull-right">Yeni Ekle</a>
+            </div>
+            <!-- /.box-header -->
+            <div class="box-body">
+                <table id="example2" class="table table-bordered table-hover">
+                    <thead>
+                        <tr>
+                            <th>Adı</th>
+                            <th>Soyadı</th>
+                            <th>Yaşı</th>
+                            <th>Cinsiyet</th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var other in Model)
+                        {
+                            //öğrenci sayısını nasıl alıcam buraya
+                        <tr>
+                            <td>@other.Name</td>
+                            <td>@other.Surname</td>
+                            <td>@other.Age</td>
+                            <td>@other.Gender</td>
+                            <td><a class="btn-primary" href="/Worker/Edit/@other.Id">Guncelle</a></td>
+                            <td><a class="btn-primary" href="/Worker/Delete/@other.Id">Sil</a></td>
+                        </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <!-- /.box-body -->
+        </div>
+        <!-- /.box -->
+    </div>
+    <!-- /.col -->
+</div>
+<!-- /.row -->

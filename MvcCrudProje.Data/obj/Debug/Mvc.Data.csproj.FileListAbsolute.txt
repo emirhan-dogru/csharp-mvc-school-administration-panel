@@ -1,0 +1,12 @@
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Data\bin\Debug\MvcCrudProje.Data.dll.config
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Data\bin\Debug\MvcCrudProje.Data.dll
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Data\bin\Debug\MvcCrudProje.Data.pdb
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Data\bin\Debug\EntityFramework.dll
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Data\bin\Debug\EntityFramework.xml
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Data\obj\Debug\Mvc.Data.csproj.AssemblyReference.cache
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Data\obj\Debug\Mvc.Data.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Data\obj\Debug\Mvc.Data.csproj.CopyComplete
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Data\obj\Debug\MvcCrudProje.Data.dll
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Data\obj\Debug\MvcCrudProje.Data.pdb

@@ -1,0 +1,24 @@
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje.Data\bin\Debug\MvcCrudProje.Data.dll.config
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje.Data\bin\Debug\MvcCrudProje.Data.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje.Data\bin\Debug\MvcCrudProje.Data.pdb
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje.Data\bin\Debug\EntityFramework.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje.Data\bin\Debug\EntityFramework.xml
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje.Data\obj\Debug\MvcCrudProje.Data.csprojAssemblyReference.cache
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje.Data\obj\Debug\MvcCrudProje.Data.csproj.CoreCompileInputs.cache
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje.Data\obj\Debug\MvcCrudProje.Data.csproj.CopyComplete
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje.Data\obj\Debug\MvcCrudProje.Data.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje.Data\obj\Debug\MvcCrudProje.Data.pdb
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje.Data\bin\Debug\MvcCrudProje.Data.dll.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje.Data\bin\Debug\MvcCrudProje.Data.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje.Data\bin\Debug\MvcCrudProje.Data.pdb
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje.Data\bin\Debug\EntityFramework.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje.Data\bin\Debug\EntityFramework.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje.Data\obj\Debug\MvcCrudProje.Data.csproj.AssemblyReference.cache
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje.Data\obj\Debug\MvcCrudProje.Data.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje.Data\obj\Debug\MvcCrudProje.Data.csproj.CopyComplete
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje.Data\obj\Debug\MvcCrudProje.Data.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje.Data\obj\Debug\MvcCrudProje.Data.pdb

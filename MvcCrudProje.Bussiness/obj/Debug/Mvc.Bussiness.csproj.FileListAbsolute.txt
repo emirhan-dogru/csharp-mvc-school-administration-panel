@@ -1,0 +1,15 @@
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Bussiness\bin\Debug\MvcCrudProje.Bussiness.dll.config
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Bussiness\bin\Debug\MvcCrudProje.Bussiness.dll
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Bussiness\bin\Debug\MvcCrudProje.Bussiness.pdb
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Bussiness\bin\Debug\EntityFramework.dll
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Bussiness\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Bussiness\bin\Debug\MvcCrudProje.Data.dll
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Bussiness\bin\Debug\MvcCrudProje.Data.pdb
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Bussiness\bin\Debug\MvcCrudProje.Data.dll.config
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Bussiness\bin\Debug\EntityFramework.xml
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Bussiness\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Bussiness\obj\Debug\Mvc.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Bussiness\obj\Debug\Mvc.Bussiness.csproj.CopyComplete
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Bussiness\obj\Debug\MvcCrudProje.Bussiness.dll
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Bussiness\obj\Debug\MvcCrudProje.Bussiness.pdb
+C:\Users\huawei\Desktop\mvc-project\mvc-project\MvcCrudProje.Bussiness\obj\Debug\Mvc.Bussiness.csproj.AssemblyReference.cache

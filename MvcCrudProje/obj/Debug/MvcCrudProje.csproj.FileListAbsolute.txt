@@ -1,0 +1,316 @@
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.dll.config
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.pdb
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\csc.exe
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\csc.exe.config
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\csc.rsp
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\csi.exe
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\csi.exe.config
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\csi.rsp
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.AppContext.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Console.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.IO.Pipes.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Claims.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\vbc.exe
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\vbc.exe.config
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\vbc.rsp
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\EntityFramework.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\EntityFramework.SqlServer.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\System.Web.Helpers.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\System.Web.Mvc.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\System.Web.Razor.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.Razor.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\EntityFramework.xml
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\EntityFramework.SqlServer.xml
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\System.Web.Razor.xml
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.xml
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.Razor.xml
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\System.Web.Helpers.xml
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\System.Web.Mvc.xml
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\obj\Debug\MvcCrudProje.csproj.CoreCompileInputs.cache
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\obj\Debug\MvcCrudProje.csproj.CopyComplete
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\obj\Debug\MvcCrudProje.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\obj\Debug\MvcCrudProje.pdb
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\obj\Debug\MvcCrudProje.csprojAssemblyReference.cache
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Bussiness.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Data.dll
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Bussiness.pdb
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Bussiness.dll.config
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Data.pdb
+C:\Users\local.egitmen\Desktop\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Data.dll.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.dll.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.pdb
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\csc.exe
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\csc.exe.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\csc.rsp
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\csi.exe
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\csi.exe.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\csi.rsp
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.AppContext.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Console.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.IO.Pipes.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Claims.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\vbc.exe
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\vbc.exe.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\vbc.rsp
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\EntityFramework.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\EntityFramework.SqlServer.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Bussiness.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Data.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\System.Web.Helpers.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\System.Web.Mvc.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\System.Web.Razor.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.Razor.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Bussiness.pdb
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Bussiness.dll.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Data.pdb
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Data.dll.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\EntityFramework.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\EntityFramework.SqlServer.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\System.Web.Razor.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.Razor.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\System.Web.Helpers.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\System.Web.Mvc.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\obj\Debug\MvcCrudProje.csproj.AssemblyReference.cache
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\obj\Debug\MvcCrudProje.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\obj\Debug\MvcCrudProje.csproj.CopyComplete
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\obj\Debug\MvcCrudProje.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login\MvcCrudProje\MvcCrudProje\obj\Debug\MvcCrudProje.pdb
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.dll.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.pdb
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\csc.exe
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\csc.exe.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\csc.rsp
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\csi.exe
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\csi.exe.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\csi.rsp
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.AppContext.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Console.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.IO.Pipes.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Claims.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\vbc.exe
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\vbc.exe.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\vbc.rsp
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\EntityFramework.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\EntityFramework.SqlServer.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Bussiness.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Data.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\System.Web.Helpers.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\System.Web.Mvc.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\System.Web.Razor.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.Razor.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Bussiness.pdb
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Bussiness.dll.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Data.pdb
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Data.dll.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\EntityFramework.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\EntityFramework.SqlServer.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\System.Web.Razor.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.Razor.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\System.Web.Helpers.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\System.Web.Mvc.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\obj\Debug\MvcCrudProje.csproj.AssemblyReference.cache
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\obj\Debug\MvcCrudProje.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\obj\Debug\MvcCrudProje.csproj.CopyComplete
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\obj\Debug\MvcCrudProje.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - Kopya\MvcCrudProje\MvcCrudProje\obj\Debug\MvcCrudProje.pdb
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.dll.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.pdb
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\csc.exe
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\csc.exe.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\csc.rsp
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\csi.exe
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\csi.exe.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\csi.rsp
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.AppContext.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Console.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.IO.Pipes.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Claims.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\vbc.exe
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\vbc.exe.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\vbc.rsp
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\EntityFramework.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\EntityFramework.SqlServer.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Bussiness.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Data.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\System.Web.Helpers.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\System.Web.Mvc.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\System.Web.Razor.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.Razor.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Bussiness.pdb
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Bussiness.dll.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Data.pdb
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\MvcCrudProje.Data.dll.config
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\EntityFramework.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\EntityFramework.SqlServer.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\System.Web.Razor.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\System.Web.Webpages.Razor.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\System.Web.Helpers.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\System.Web.Mvc.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\obj\Debug\MvcCrudProje.csproj.AssemblyReference.cache
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\obj\Debug\MvcCrudProje.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\obj\Debug\MvcCrudProje.csproj.CopyComplete
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\obj\Debug\MvcCrudProje.dll
+C:\Users\huawei\Desktop\MvcCrudProje- 4 Login - generic repository\MvcCrudProje\MvcCrudProje\obj\Debug\MvcCrudProje.pdb
